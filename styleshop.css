@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding: 0px;
+    overflow-x :hidden;
+}
+.wrapper{
+    
+    width:100vw;
+    background-color: grey;
+    height:100vh;
+    overflow: hidden;
+    box-sizing:border-box;
+
+
+}
+.container{
+    box-sizing:border-box;
+    position: relative ;
+    top:5vw;
+    left: 100px;
+    border: 10px solid rgb(235, 189, 121);;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    height:98vh;
+    width:90vw;
+
+}
